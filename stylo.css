@@ -12,3 +12,8 @@
     color: palevioletred;
     background-color: antiquewhite;
 }
+
+a{
+    text-decoration: none;
+    color: greenyellow;
+}
