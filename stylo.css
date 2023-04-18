@@ -1,0 +1,14 @@
+
+.musicasInternacionais{
+    color: blueviolet;
+    background-color: antiquewhite;
+    width: 250px;
+    height: 80px;
+    padding-top: 15px;
+    border: solid 2px black;
+}
+
+.musicasNacionais {
+    color: palevioletred;
+    background-color: antiquewhite;
+}
